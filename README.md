@@ -6,8 +6,8 @@
 大学、大学院の研究活動を通して開発に取り組んでいます。
 
 ## 使用技術
-* **Language**: Python 3.x
-* **ML/Analysis**: scikit-learn (KMeans, StandardScaler), Pandas, NumPy
+* **Language**: Python 3.11
+* **ML/Analysis**: scikit-learn, KMeans, StandardScaler, Pandas, NumPy
 * **Computer Vision**: OpenCV, dlib, hsemotion
 * **Data Processing**: yt_dlp, pydub, chat_downloader
 
